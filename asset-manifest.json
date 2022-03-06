@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/miraw-sample.git/static/css/main.74678700.css",
+    "main.js": "/miraw-sample.git/static/js/main.30158664.js",
+    "static/js/787.a08e084c.chunk.js": "/miraw-sample.git/static/js/787.a08e084c.chunk.js",
+    "static/media/image1.png": "/miraw-sample.git/static/media/image1.3d8c71fbc89a44a7a27e.png",
+    "static/media/ProximaNovaFont.ttf": "/miraw-sample.git/static/media/ProximaNovaFont.4dda1fd72264c382663a.ttf",
+    "static/media/logo.svg": "/miraw-sample.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/miraw-sample.git/index.html",
+    "main.74678700.css.map": "/miraw-sample.git/static/css/main.74678700.css.map",
+    "main.30158664.js.map": "/miraw-sample.git/static/js/main.30158664.js.map",
+    "787.a08e084c.chunk.js.map": "/miraw-sample.git/static/js/787.a08e084c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74678700.css",
+    "static/js/main.30158664.js"
+  ]
+}
